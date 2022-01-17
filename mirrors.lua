@@ -1,3 +1,5 @@
+-- Скрипт для добавления зеркал кабины машиниста
+
 if SERVER then return end
 -- Добавляем зеркала
 timer.Simple(0,function()
