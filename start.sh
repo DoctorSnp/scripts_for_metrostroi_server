@@ -16,7 +16,7 @@ reset=`tput sgr0`
 # Москва
 M_KALIN="gm_metro_kalinin_v2"
 M_LDL="gm_metro_mosldl_v1"
-M_NEKRAS="gm_metro_nekrasovskaya_line"
+M_NEKRAS="gm_metro_nekrasovskaya_line_v5"
 
 # Питер
 M_NVL="gm_metronvl"
